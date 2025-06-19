@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Vrooh/Desktop/allProjects/submission-msml/Membangun_model/mlruns/937060137985776403/e16d46b2fa90419fb6c1ab9fa75237b8/artifacts
+deleted_time: 1750352843562
+end_time: 1750351764251
+entry_point_name: ''
+experiment_id: '937060137985776403'
+lifecycle_stage: deleted
+run_id: e16d46b2fa90419fb6c1ab9fa75237b8
+run_name: silent-bat-577
+run_uuid: e16d46b2fa90419fb6c1ab9fa75237b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750351764158
+status: 4
+tags: []
+user_id: Vrooh

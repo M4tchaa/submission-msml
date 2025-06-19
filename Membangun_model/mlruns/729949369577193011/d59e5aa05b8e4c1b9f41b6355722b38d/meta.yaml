@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vrooh/Desktop/allProjects/submission-msml/Membangun_model/mlruns/729949369577193011/d59e5aa05b8e4c1b9f41b6355722b38d/artifacts
+end_time: 1750352930256
+entry_point_name: ''
+experiment_id: '729949369577193011'
+lifecycle_stage: active
+run_id: d59e5aa05b8e4c1b9f41b6355722b38d
+run_name: mercurial-rat-230
+run_uuid: d59e5aa05b8e4c1b9f41b6355722b38d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750352921290
+status: 3
+tags: []
+user_id: Vrooh

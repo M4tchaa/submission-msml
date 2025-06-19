@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vrooh/Desktop/allProjects/submission-msml/Membangun_model/mlruns/912953142866069424/d707022a55ee43658fa1d51b0d685cee/artifacts
+end_time: 1750353611360
+entry_point_name: ''
+experiment_id: '912953142866069424'
+lifecycle_stage: active
+run_id: d707022a55ee43658fa1d51b0d685cee
+run_name: traveling-hog-505
+run_uuid: d707022a55ee43658fa1d51b0d685cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750353606280
+status: 3
+tags: []
+user_id: Vrooh

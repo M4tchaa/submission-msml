@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Vrooh/Desktop/allProjects/submission-msml/Membangun_model/mlruns/937060137985776403/b48d6fe1464449558d3dc8440728f5b2/artifacts
+deleted_time: 1750352843562
+end_time: 1750352668597
+entry_point_name: ''
+experiment_id: '937060137985776403'
+lifecycle_stage: deleted
+run_id: b48d6fe1464449558d3dc8440728f5b2
+run_name: popular-hare-206
+run_uuid: b48d6fe1464449558d3dc8440728f5b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750352659380
+status: 3
+tags: []
+user_id: Vrooh

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Vrooh/Desktop/allProjects/submission-msml/Membangun_model/mlruns/937060137985776403/b6962e213cd9419ea6272a5eafec8b12/artifacts
+deleted_time: 1750352843562
+end_time: 1750351849251
+entry_point_name: ''
+experiment_id: '937060137985776403'
+lifecycle_stage: deleted
+run_id: b6962e213cd9419ea6272a5eafec8b12
+run_name: popular-cub-888
+run_uuid: b6962e213cd9419ea6272a5eafec8b12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750351849161
+status: 4
+tags: []
+user_id: Vrooh

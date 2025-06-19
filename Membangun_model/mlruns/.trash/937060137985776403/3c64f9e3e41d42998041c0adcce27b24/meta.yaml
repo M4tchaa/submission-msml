@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Vrooh/Desktop/allProjects/submission-msml/Membangun_model/mlruns/937060137985776403/3c64f9e3e41d42998041c0adcce27b24/artifacts
+deleted_time: 1750352843562
+end_time: 1750352287636
+entry_point_name: ''
+experiment_id: '937060137985776403'
+lifecycle_stage: deleted
+run_id: 3c64f9e3e41d42998041c0adcce27b24
+run_name: rare-stoat-702
+run_uuid: 3c64f9e3e41d42998041c0adcce27b24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750352287546
+status: 4
+tags: []
+user_id: Vrooh

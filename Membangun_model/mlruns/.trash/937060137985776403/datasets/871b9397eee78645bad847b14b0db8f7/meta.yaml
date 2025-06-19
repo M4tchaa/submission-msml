@@ -1,0 +1,12 @@
+digest: 571e8089
+name: dataset
+profile: '{"num_rows": 991, "num_elements": 6937}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Year", "required": false},
+  {"type": "double", "name": "Genre", "required": false}, {"type": "double", "name":
+  "Publisher", "required": false}, {"type": "double", "name": "North America", "required":
+  false}, {"type": "double", "name": "Europe", "required": false}, {"type": "double",
+  "name": "Japan", "required": false}, {"type": "double", "name": "Rest of World",
+  "required": false}]}'
+source: '{"tags": {"mlflow.user": "Vrooh", "mlflow.source.name": "modelling.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "755937fa739a1227845becbdf38f1908b5ee754d"}}'
+source_type: code
