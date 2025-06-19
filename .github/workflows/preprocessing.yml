@@ -1,0 +1,35 @@
+name: Preprocessing Workflow
+
+on:
+  push:
+    paths:
+      - 'preprocessing/automate_arliyandi.py'
+      - 'PS4_GamesSales_raw.csv'
+      - '.github/workflows/preprocessing.yml'
+
+jobs:
+  preprocessing:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas scikit-learn joblib
+
+      - name: Run automate_arliyandi.py
+        run: python preprocessing/automate_arliyandi.py
+
+      - name: Upload preprocessing artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: preprocessed-dataset
+          path: game_preprocessing/
