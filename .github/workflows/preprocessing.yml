@@ -29,7 +29,7 @@ jobs:
         run: python preprocessing/automate_arliyandi.py
 
       - name: Upload preprocessing artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: preprocessed-dataset
           path: game_preprocessing/
