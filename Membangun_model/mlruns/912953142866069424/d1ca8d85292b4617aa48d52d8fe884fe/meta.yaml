@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vrooh/Desktop/allProjects/submission-msml/Membangun_model/mlruns/912953142866069424/d1ca8d85292b4617aa48d52d8fe884fe/artifacts
+end_time: 1750388827408
+entry_point_name: ''
+experiment_id: '912953142866069424'
+lifecycle_stage: active
+run_id: d1ca8d85292b4617aa48d52d8fe884fe
+run_name: sincere-ram-946
+run_uuid: d1ca8d85292b4617aa48d52d8fe884fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750388817336
+status: 4
+tags: []
+user_id: Development

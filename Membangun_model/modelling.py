@@ -29,3 +29,5 @@ with mlflow.start_run():
     acc = accuracy_score(y_test, y_pred)
 
     print(f"Akurasi pada testing: {acc:.4f}")
+
+    mlflow.sklearn.save_model(model, "model")
